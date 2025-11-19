@@ -28,21 +28,20 @@ This repository contains a comprehensive analysis of Amazon data using *Microsof
 ## 📈 Sample Visualizations
 
 > These visuals are included in the Excel report:
-- 📉 Sales trend by state
-- https://github.com/danielawinsobiramba40-hue/amazon-analysis-dashboard/issues/1#issue-3644649800
-- 🛒 Top categories by revenue
-- 🌍 Orders by region
+- 📉 Sales trend by state https://github.com/danielawinsobiramba40-hue/amazon-analysis-dashboard/issues/1#issue-3644649800
+- 🛒 Top categories by revenue https://github.com/danielawinsobiramba40-hue/amazon-analysis-dashboard/issues/2#issue-3644671744
+- 🌍 QUATITY SHIPPED TO TOP 20  STATE https://github.com/danielawinsobiramba40-hue/amazon-analysis-dashboard/issues/3#issue-3644678399
 - 📦 Product return rates
 
-![Sample Chart](path/to/visual.png)
+Sample Chart(https://github.com/danielawinsobiramba40-hue/amazon-analysis-dashboard/issues/4#issue-3644693210)
 
 ---
 
 ## 🔍 Key Insights
 
-- Total revenue: *$X*
-- Most popular product category: *Electronics*
-- Highest revenue month: *June*
+- Total revenue: *X*
+- Most popular product category: *SET*
+- Highest revenue month: *MAY*
 - Customer segment with highest purchases: *Returning customers*
 
 ---
