@@ -63,4 +63,4 @@ Sample Chart(https://github.com/danielawinsobiramba40-hue/amazon-analysis-dashbo
 
 🔗 Data Source
 
-Data was exported from [Amazon Seller Central / Kaggle / Internal System]
+Data was exported from [Amazon Seller Central]
